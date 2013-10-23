@@ -8,7 +8,7 @@ import java.text.*;
  * @author Roman Bucnev
  * @version 11.10.2013
  */
-
+//test
 public class Bruch {
 
 	// Deklaration der Attribute
